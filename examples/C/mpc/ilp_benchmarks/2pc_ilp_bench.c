@@ -1,7 +1,7 @@
 int main(__attribute__((private(0))) int a, __attribute__((private(1))) int b)
 {
     int acc = 0;
-    for (int i = 0; i < 75000; i++)
+    for (int i = 0; i < 40000; i++)
     {
         if (a > b)
         {

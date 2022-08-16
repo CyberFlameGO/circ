@@ -24,8 +24,8 @@ SOFTWARE.
 
 #ifndef __EZPC_H_
 #define __EZPC_H_
-#include "../ABY/src/abycore/circuit/booleancircuits.h"
-#include "../ABY/src/abycore/sharing/sharing.h"
+#include "../../../ABY/src/abycore/circuit/booleancircuits.h"
+#include "../../../ABY/src/abycore/sharing/sharing.h"
 #include <vector>
 #include <string>
 #include <sstream>
